@@ -1,0 +1,29 @@
+{
+  "name": "homebridge-auping-connect",
+  "version": "1.0.0",
+  "description": "A homebridge plugin to control Auping Smart Base via Auping Connect",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "auping",
+    "auping-connect",
+    "torac",
+    "homekit"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/torac/homebridge-auping-connect"
+  },
+  "dependencies": {
+    "sync-request": "^6.1.0"
+  },
+  "engines": {
+    "homebridge": ">=1.2.3"
+  },
+  "maintainers": [
+    {
+      "name": "torac"
+    }
+  ]
+}
